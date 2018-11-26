@@ -1,8 +1,9 @@
 # University_Communities-CDMX
-This is a repo to Organize University Communities and Planning events, workshops &amp; more things.
+Este es un repo para poder organizarnos entre comunidades dentro de la CDMX y poder fomentar la participacion y colavoracion entre comunidades. 
 
 # Comunidad
-* GDG UNAM
-* GDG IPN
+* Google Developer Group UNAM
+* Google Developer Group IPN
 * Facebook Dev. Circle CDMX
-* 
+* EvenLoop
+* NodeSchool CDMX
