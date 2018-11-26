@@ -1,7 +1,7 @@
 # University_Communities-CDMX
-Este es un repo para poder organizarnos entre comunidades dentro de la CDMX y poder fomentar la participacion y colavoracion entre comunidades. 
+Este es el repo para poder organizarnos entre comunidades dentro de la CDMX y poder fomentar la participacion y colaboracion entre comunidades. :metal:
 
-# Comunidad
+## Comunidad
 * Google Developer Group UNAM
 * Google Developer Group IPN
 * Facebook Dev. Circle CDMX
