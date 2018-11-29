@@ -8,3 +8,4 @@ Este es el repo para poder organizarnos entre comunidades dentro de la CDMX y po
 * EvenLoop
 * NodeSchool CDMX
 * Code it ITESM CCM
+* Wiggi Network CDMX
